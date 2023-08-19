@@ -51,9 +51,9 @@ python regression_analysis.py
 
 The script uses the following datasets for regression analysis:
 
-1. **Simple Regression Dataset (`sr.csv`):** A simple dataset containing two columns, `x` and `y`. This dataset is used to demonstrate basic linear regression.
+1. **Simple Regression Dataset (`simple_regression.csv`):** A simple dataset containing two columns, `x` and `y`. This dataset is used to demonstrate basic linear regression.
 
-2. **California Housing Dataset:** A real-world dataset from scikit-learn's sample datasets. It contains features related to housing in California, used for linear regression analysis.
+2. **California Housing Dataset:** (`SKLEARN example datasets`) A real-world dataset from scikit-learn's sample datasets. It contains features related to housing in California, used for linear regression analysis.
 
 3. **Students on Mars Dataset (`Students_on_Mars.csv`):** A synthetic dataset simulating student test scores on Mars. This dataset is used to demonstrate polynomial regression.
 

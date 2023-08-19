@@ -8,8 +8,9 @@ from sklearn.preprocessing import PolynomialFeatures, StandardScaler
 from sklearn.model_selection import train_test_split
 
 def simple_regression_dataset():
+    
     # Load data
-    df = pd.read_csv('sr.csv')
+    df = pd.read_csv('simple_regression.csv')
 
     # Split data into training and testing sets
     x_train, x_test, y_train, y_test = train_test_split(df['x'], df['y'], test_size=0.2)
