@@ -2,6 +2,8 @@
 
 This repository contains a Python script that demonstrates the implementation of a custom linear regression class, as well as the application of linear and polynomial regression techniques on different datasets. The script uses the `LinearRegression` class for linear regression and `PolynomialFeatures` for polynomial regression, both from the scikit-learn library.
 
+![result](/Figure_1.png)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
